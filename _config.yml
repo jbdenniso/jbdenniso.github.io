@@ -49,6 +49,7 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -85,7 +86,7 @@ author:
   bio              : "Early researcher interested in how the brain responds to rewards and makes supports decision-making."
   location         : "Philadelphia, PA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Jeffrey+Dennison"
   googlescholar    : "https://scholar.google.com/citations?user=jjAO9CIAAAAJ&hl=en&oi=sram"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

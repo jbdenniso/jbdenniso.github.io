@@ -1,18 +1,19 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
+Jeffrey Dennison:
+  name        : "Jeffrey B. Dennison"
   uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  email       : "jbdenniso@gmail.com"
+  bio         : "I am a PhD student and soon to be post-doc interested in studying the neural responses to rewards and decision making."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  twitter     : "@jbdenniso"
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=jjAO9CIAAAAJ&view_op=list_works&sortby=pubdate"
+#  google_plus : ""
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+#Name2 Name2:
+#  name        : "Name2 Name2"
+#  email       : "name2@name2.com"
+#  bio         : "I ordered what?"
+#  avatar      : "bio-photo.jpg"
+#  twitter     : "name2"
+#  google_plus : "Name"
