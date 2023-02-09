@@ -17,6 +17,3 @@ We identified consistent patterns of reward-dependent connectivity supporting su
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 ![PPI Meta Results](../images/NeuroEcon-22_talk.png)
-
-
-
