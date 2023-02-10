@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021_22-BrainMatters
 venue: "Temple University, Psychology"
-date: 2020-01-01
+date: 2021-01-01
 location: "Philadelphia, PA"
 ---
 
