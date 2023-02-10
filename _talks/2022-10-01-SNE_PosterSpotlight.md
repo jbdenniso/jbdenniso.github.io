@@ -2,7 +2,7 @@
 title: "Reward-Dependent Corticostriatal Connectivity: A PPI Meta Analysis"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2022-10-01-SNE
 venue: "Society For Neuroeconomics 2022"
 date: 2022-10-10
 location: "Crystal City, VA"
