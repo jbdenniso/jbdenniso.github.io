@@ -14,6 +14,4 @@ We used NiMARE (RRID:SCR_017398) to conduct a coordinate-based meta-analysis of 
 
 We identified consistent patterns of reward-dependent connectivity supporting supporting previous studies implicating this circuit.vHowever, connectivity showed relative changes in response to phase of reward, possibly to better support different functions.
 
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-![PPI Meta Results](../images/NeuroEcon-22_talk.png)
+![PPI Meta Results](../images/Meta-comparison.png)
