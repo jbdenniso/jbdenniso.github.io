@@ -33,6 +33,8 @@ Neuro-imaging and Statistical Methods
 ---------------------
 Much of my work involves the neural processing of rewards and how that processing affects the kinds of decisions we make. Neuroimaging through (functional)MRI has been a strong tool to help understand those neural processes. However, the techniques for acquiring and analyzing MRI data are constantly evolving. My research both utilizes contemporary techniques, like using tensorial ICA to characterize individual differences, and studies them, like analyzing difference in statistical power when using multi-echo aquisition.
 
+!['A schematic for tensorial ICA'](/images/Tensor_ICA.png)
+
 Other interest
 ======
 Asides from my direct research interests I spend a lot of time working in the community on adjacent problems revolving around how we do science.
