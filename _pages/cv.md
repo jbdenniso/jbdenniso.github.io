@@ -9,39 +9,46 @@ redirect_from:
 
 {% include base_path %}
 
+
+* [A Pdf of my CV](files/Dennison_CV-2.pdf)
+=======
 Education
 ======
 ### Temple University
-: PhD Psychology and Neuroscience | 2018-2023(expected)
-* Advisor: Dr. David Smith
+> PhD Psychology and Neuroscience | 2018-2023(expected)
+> Advisor: Dr. David Smith
 
 ### New York University
-: MA Psychology | 2014-2016
-* Advisor: Dr. Paul Glimcher
-* Honors Thesis: A Princpal Components Analysis of Self Report and Economic Measures of Risk Preferences and Impulsivity
+> MA Psychology | 2014-2016
+> Advisor: Dr. Paul Glimcher
+> Honors Thesis: A Princpal Components Analysis of Self Report and Economic Measures of Risk Preferences and Impulsivity
 ### Hawaii Pacific University
-: BS Psychology | 2009-2013
-* Research Advisors: Dr Patricia Ellerson & Dr. Katherine Aumer
+> BS Psychology | 2009-2013
+> Research Advisors: Dr Patricia Ellerson & Dr. Katherine Aumer
 
 Work experience
 ======
-* 2020 Graduate Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Research Assistant
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Teaching Assistant
+
+* Lab Manager and Research Assistant
+> Mauricio Delgado: Rutgers University
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* MRI analysis
+  * Mass Univariate Analyses
+  * Psychophysiological Interactions
+  * Dual Regression (ICA)
+  * MVPA
+  
+* Programming
+  * Python
+  * Bash
+  * Matlab
+  * R
+  
 * Skill 3
 
 Publications
