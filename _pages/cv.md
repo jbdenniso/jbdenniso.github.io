@@ -17,15 +17,19 @@ Education
 ======
 ### Temple University
 > PhD Psychology and Neuroscience | 2018-2023(expected)
+>
 > Advisor: Dr. David Smith
 
 ### New York University
 > MA Psychology | 2014-2016
+>
 > Advisor: Dr. Paul Glimcher
+>
 > Honors Thesis: A Princpal Components Analysis of Self Report and Economic Measures of Risk Preferences and Impulsivity
 
 ### Hawaii Pacific University
 > BS Psychology | 2009-2013
+>
 > Research Advisors: Dr Patricia Ellerson & Dr. Katherine Aumer
 
 Work experience
