@@ -12,7 +12,7 @@ redirect_from:
 
 A Link to the  [ pdf version of my CV](https://raw.githubusercontent.com/jbdenniso/jbdenniso.github.io/master/files/Dennison_CV-2.pdf)
 
-=======
+
 Education
 ======
 ### Temple University
