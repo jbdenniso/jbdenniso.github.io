@@ -11,6 +11,7 @@ redirect_from:
 
 
 A Link to the  [ pdf version of my CV](https://github.com/jbdenniso/jbdenniso.github.io/blob/master/files/Dennison_CV-2.pdf)
+
 =======
 Education
 ======
@@ -22,15 +23,16 @@ Education
 > MA Psychology | 2014-2016
 > Advisor: Dr. Paul Glimcher
 > Honors Thesis: A Princpal Components Analysis of Self Report and Economic Measures of Risk Preferences and Impulsivity
+
 ### Hawaii Pacific University
 > BS Psychology | 2009-2013
 > Research Advisors: Dr Patricia Ellerson & Dr. Katherine Aumer
 
 Work experience
 ======
-* Graduate Research Assistant
-
-* Graduate Teaching Assistant
+* Graduate
+> Research Assistant: Dr David Smith Neuroeconomics Lab
+> Teaching Assistant: See Teaching Experiences
 
 * Lab Manager and Research Assistant
 > Mauricio Delgado: Rutgers University
@@ -49,7 +51,7 @@ Skills
   * Matlab
   * R
   
-* Skill 3
+* Statistics
 
 Publications
 ======
@@ -71,4 +73,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Memberships
+   * Society for Neuroeconomics
+   * Society for Neuroscience
+   
