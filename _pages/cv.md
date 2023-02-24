@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-* [A Pdf of my CV](files/Dennison_CV-2.pdf)
+A Link to the  [ pdf version of my CV](https://github.com/jbdenniso/jbdenniso.github.io/blob/master/files/Dennison_CV-2.pdf)
 =======
 Education
 ======
