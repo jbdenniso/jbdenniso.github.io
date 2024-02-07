@@ -16,19 +16,19 @@ A Link to the  [ pdf version of my CV](https://raw.githubusercontent.com/jbdenni
 Education
 ======
 ### Temple University
-> PhD Psychology and Neuroscience | 2018-2023(expected)
+> PhD Psychology and Neuroscience : 2018-2023(expected)
 >
 > Advisor: Dr. David Smith
 
 ### New York University
-> MA Psychology | 2014-2016
+> MA Psychology : 2014-2016
 >
 > Advisor: Dr. Paul Glimcher
 >
 > Honors Thesis: A Princpal Components Analysis of Self Report and Economic Measures of Risk Preferences and Impulsivity
 
 ### Hawaii Pacific University
-> BS Psychology | 2009-2013
+> BS Psychology : 2009-2013
 >
 > Research Advisors: Dr Patricia Ellerson & Dr. Katherine Aumer
 
@@ -80,4 +80,8 @@ Service and leadership
 * Memberships
    * Society for Neuroeconomics
    * Society for Neuroscience
+* Reviewer
+   * Human Brain Mapping (with advisor)
+   * Cell Reports (with advisor)
+   * Journal of Visual Experiments
    

@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year PhD student at Temple University studying the neurocomputational processes of judgment and decision-making using computational modeling and fMRI. I graduated with my B.A. from Hawai'i Pacific University where I was introduced to behavioral science and statistics. I then got some of my first tastes of neuroecomics as a M.A. student at New York University working with Paul Glimcher comparing computational markers of risk aversion and temporal discounting to typical questionaires meant to gauge similar constructs of risk-taking and impulse control. I then got a real introduction with neuroimaging methods as a research assistant and lab manager at Rutgers University working with Mauricio Delgado.
+I am a postdoctoral fellow in the Labratory for Structural Physiologic and Functional Imaging at the University of Pennslyvania studying MRI oxymetry. As a doctoral student I used fMRI and computational behavioral modeling to study the neurocomputational processes of judgment and decision-making. I graduated wth my BA from Hawai'i Pacific University and my M.A. at New York University working with Paul Glimcher comparing choice based markers of risk aversion and temporal discounting to psychological questionaires meant to gauge similar constructs of risk-taking and impulse control.
 
-Now as a PhD student I'm developing my own lines of research centered around reward processing, functional connectivity using MRI, and clinical disorders. 
- 
 Research interests
 ======
 The big questions surrounding my research interests is trying to understand how humans make sense of the world through a lense of judgment and decision-making.
