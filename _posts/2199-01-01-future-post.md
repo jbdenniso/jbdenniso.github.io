@@ -1,6 +1,6 @@
 ---
 title: 'Automatic Apnea Detection with Bayesian Switch Point Analysis'
-date: 2012-08-14
+date: 2019-06-17
 permalink: /posts/Apnea_Detection/
 tags:
   - Bayesian Modeling
@@ -10,7 +10,9 @@ tags:
 
 
 ======
-Problem:
+ Problem:
+======
+
 We have 90 minutes of metabolic data from a sleeping patient with obstructive sleep apnea. Due to simultanious eeg and airway pressure recordings we have information about the patients sleep status (Awake, Stage 1, Stage 2, or Stage 3 of sleep) and breathing events (apneas and hypopneas). We want to measure how much if any oxygen metabolism changes in the brain (CMRO2) in response to an apneac event.
 
 ![ Time course of patient sleep](./_post1/All_Metabolic.png)
@@ -23,7 +25,7 @@ We model CMRO2 overtime with a Normal distrubition whose mean is dependent upon 
 
 The apnea is not explicitly modeled, yet we can see that as soon as the apnea starts CMRO2 decreases right away (from 109.4 to 104.1 micromoles of O2/minute/100g of tissue) but doesn't rebound until about 2 minutes after the end of the apnea.
 
-======
 
-Aren't headings cool?
+
+
 ------
