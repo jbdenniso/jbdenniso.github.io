@@ -1,5 +1,5 @@
 ---
-title: "Quantitatively measuring CMRO2 via MRI"
+title: "3D Quantitative BOLD MRI in Patients with Unilateral Carotid Occlusion"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-06-17-AUSFIDE
@@ -8,7 +8,7 @@ date: 2024-06-10
 location: " "
 ---
 
-Quantitatively measuring CMRO2 via MRI
+3D Quantitative BOLD MRI in Patients with Unilateral Carotid Occlusion
 ======
 
 Motivation
