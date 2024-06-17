@@ -9,9 +9,7 @@ tags:
 ---
 
 
-======
- Problem:
-======
+====== Problem: ======
 
 We have 90 minutes of metabolic data from a sleeping patient with obstructive sleep apnea. Due to simultanious eeg and airway pressure recordings we have information about the patients sleep status (Awake, Stage 1, Stage 2, or Stage 3 of sleep) and breathing events (apneas and hypopneas). We want to measure how much if any oxygen metabolism changes in the brain (CMRO2) in response to an apneac event.
 
