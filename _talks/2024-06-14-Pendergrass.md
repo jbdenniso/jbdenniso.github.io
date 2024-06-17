@@ -9,14 +9,15 @@ location: " "
 ---
 
 Quantitatively measuring CMRO2 via MRI
-====
+======
+
 Motivation:
 -------------------------
 
  Recently developed constrained quantitative BOLD (c-qBOLD) offers the ability to quantify local cerebral metabolic rate of oxygen (CMRO2). However, it has yet to be applied in a clinical setting. Goals: By imaging patients with carotid occlusions we expect to observe specific disruptions to cerebral blood flow (CBF) and oxygen extraction fraction (OEF). Approach: Patients (N=4) presenting with unilateral carotid occlusions were examined with a 3D constrained qBOLD protocol to map CBF, OEF, and cerebral blood volume, allowing for calculation of regional CMRO2. Results: Data show both global and hemispheric dysfunction in oxygen metabolism compared to healthy subjects.
 Impact: 
 The novel c-qBOLD protocol has potential clinical utility as  the degree and character of metabolic dysfunction, but can be performed quickly, yielding 3D maps of CBF, OEF and CMRO2.
-ABSTRACT ( 768/750)
+
 
 Introduction: 
 -------------------------
@@ -29,22 +30,22 @@ Methods:
 Prior Constrained qBOLD processing via AUSFIDE: First, venous blood volume (CBVv) maps were obtained using the VS-VSL data. Next, six parameter maps including magnetic susceptibility, R2’ and R2 (RF reversible and RF irreversible transverse relaxation) were reconstructed from the AUSFIDE images. These parameter maps were used to fit to the c-qBOLD model3 yielding voxel-wise values of CBF, OEF, and CMRO2. Details are described in ref. 3.             
 Data analysis: Brain tissue segmentation was performed on the MP-RAGE using FreeSurfer5 to create masks for cortical gray and white matter. The masks were then coregistered to the first echo of the SSFP-FID images facilitating the extraction of CFB, OEF, and CMRO2 from gray and white matter but excluding non-neural tissue. We compare patient values to data from healthy participants5.
 
-![Procedure](../images/_Pendergrass/From_Lee_etal2022.png)
+![Procedure](../images/From_Lee_etal2022.png)
 
 
 Results: 
 -------------------------
 	Parametric maps (Figure 1) of CBF, OEF, and CMRO2 qualitatively suggest global as well as spatially specific differences in overall brain oxygen metabolism as occlusion patients have noticeably lower CBF and CMRO2 on the (ipsilateral) side of the brain. 
 
-![maps](../images/_Pendergrass/parameter_maps.png)
+![maps](../images/parameter_maps.png)
 
 In quantifying differences in oxygen metabolism across the entire brain (Figure 2) we find CBF to be significantly lower in the patients (mean=26.6 ml/min.100g) as compared to healthy participants (N=14, mean=45.5 ml/min.100g) previously scanned with this technique5 (p=0.005) as well as CMRO2 (110 versus 153μmol/100g/min), p=0.036. Particularly notable, however, is the difference in global oxygen extraction fraction in the patients (mean OEF=47.3 %) as compared to our reference group (OEF=36.6 %), p<0.001.
 
-![globals](../images/_Pendergrass/boxPlots.png)
+![globals](../images/boxPlots.png)
 
 Taking advantage of the 3D properties of our image we then examine the data by hemisphere (Figure 3). Occlusion patients seem to experience both a fixed effects across hemispheres relative to reference subjects, as well as interactions depending on the side of the occluded vessel (e.g. a patient with right-sided occlusion experiences lower CBF but more so on the ipsilateral side of the brain). However, a greater number of study subjects is needed to support this observation. 
 
-![hemispheric](../images/_Pendergrass/bias.png)
+![hemispheric](../images/bias.png)
 
 Discussion and Conclusion 
 -------------------------
@@ -61,4 +62,4 @@ Refrences:
 6.Reuter, M., Rosas, H.D., Fischl, B., 2010. Highly Accurate Inverse Consistent Registration: A Robust 	Approach. Neuroimage 53 (4), 1181–1196. http://reuter.mit.edu/papers/reuter-robreg10.pdf 
 7. Cherukara, M. T., Stone, A. J., Chappell, M. A., & Blockley, N. P. (2019). Model-based Bayesian 	inference of brain oxygenation using quantitative BOLD. Neuroimage, 202, 116106.
 
-![PPI Meta Results](../images/Meta-comparison.png)
+
