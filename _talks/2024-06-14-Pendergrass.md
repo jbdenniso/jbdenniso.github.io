@@ -1,5 +1,5 @@
 ---
-title: "Reward-Dependent Corticostriatal Connectivity: A PPI Meta Analysis"
+title: "Quantitatively measuring CMRO2 via MRI"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-06-17-AUSFIDE
@@ -15,7 +15,9 @@ Motivation
 -------------------------
 
  Recently developed constrained quantitative BOLD (c-qBOLD) offers the ability to quantify local cerebral metabolic rate of oxygen (CMRO2). However, it has yet to be applied in a clinical setting. Goals: By imaging patients with carotid occlusions we expect to observe specific disruptions to cerebral blood flow (CBF) and oxygen extraction fraction (OEF). Approach: Patients (N=4) presenting with unilateral carotid occlusions were examined with a 3D constrained qBOLD protocol to map CBF, OEF, and cerebral blood volume, allowing for calculation of regional CMRO2. Results: Data show both global and hemispheric dysfunction in oxygen metabolism compared to healthy subjects.
-Impact: 
+ 
+Impact
+------------------------
 The novel c-qBOLD protocol has potential clinical utility as  the degree and character of metabolic dysfunction, but can be performed quickly, yielding 3D maps of CBF, OEF and CMRO2.
 
 
@@ -23,6 +25,7 @@ Introduction
 -------------------------
 
 	Healthy brain function relies on a continuous supply of oxygen whose consumption is determined by both the supply of oxygen to the brain and degree of oxygen extracted from blood1. Recent advances in MRI techniques have allowed for delineating these processes which previously required PET or other uncomfortable calibration procedures2. Lee and Wehrli3 recently developed a “constrained qBOLD+QSM” (c-qBOLD) approach that enables voxelwise 3D imaging of the brain’s oxygen metabolism without dual-gas calibration. The approach is similar to that by Cho et al4. Here, we first apply the method to select patients with neurovascular-metabolic disease.
+	
 	
 Methods
 -------------------------
