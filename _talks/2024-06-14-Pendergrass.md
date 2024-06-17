@@ -11,7 +11,7 @@ location: " "
 Quantitatively measuring CMRO2 via MRI
 ======
 
-Motivation:
+Motivation
 -------------------------
 
  Recently developed constrained quantitative BOLD (c-qBOLD) offers the ability to quantify local cerebral metabolic rate of oxygen (CMRO2). However, it has yet to be applied in a clinical setting. Goals: By imaging patients with carotid occlusions we expect to observe specific disruptions to cerebral blood flow (CBF) and oxygen extraction fraction (OEF). Approach: Patients (N=4) presenting with unilateral carotid occlusions were examined with a 3D constrained qBOLD protocol to map CBF, OEF, and cerebral blood volume, allowing for calculation of regional CMRO2. Results: Data show both global and hemispheric dysfunction in oxygen metabolism compared to healthy subjects.
@@ -19,12 +19,12 @@ Impact:
 The novel c-qBOLD protocol has potential clinical utility as  the degree and character of metabolic dysfunction, but can be performed quickly, yielding 3D maps of CBF, OEF and CMRO2.
 
 
-Introduction: 
+Introduction
 -------------------------
 
 	Healthy brain function relies on a continuous supply of oxygen whose consumption is determined by both the supply of oxygen to the brain and degree of oxygen extracted from blood1. Recent advances in MRI techniques have allowed for delineating these processes which previously required PET or other uncomfortable calibration procedures2. Lee and Wehrli3 recently developed a “constrained qBOLD+QSM” (c-qBOLD) approach that enables voxelwise 3D imaging of the brain’s oxygen metabolism without dual-gas calibration. The approach is similar to that by Cho et al4. Here, we first apply the method to select patients with neurovascular-metabolic disease.
 	
-Methods:
+Methods
 -------------------------
 
 	To demonstrate clinical utility of c-qBOLD, patients with unilateral carotid occlusions were recruited from the Neurology practice in the authors’ institution. Patients were imaged with the 3D c-qBOLD protocol consisting of three sequences, VS-VSL (yielding venous blood volume)3, AUSFIDE 3 (for R2’ and R2 mapping) 3 and pCASL (for CBF). Lastly, an MP-RAGE is included to register qBOLD images to neural tissue. The Table below lists patient demographics and diagnosis.
@@ -36,7 +36,7 @@ Data analysis: Brain tissue segmentation was performed on the MP-RAGE using Free
 ![Procedure](../images/From_Lee_etal2022.png)
 
 
-Results: 
+Results
 -------------------------
 
 	Parametric maps (Figure 1) of CBF, OEF, and CMRO2 qualitatively suggest global as well as spatially specific differences in overall brain oxygen metabolism as occlusion patients have noticeably lower CBF and CMRO2 on the (ipsilateral) side of the brain. 
