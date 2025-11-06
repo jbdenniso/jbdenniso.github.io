@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow in the Laboratory for Structural Physiologic and Functional Imaging at the University of Pennsylvania studying MRI oximetry. As a doctoral student, I used fMRI and computational behavioral modeling to study the neurocomputational processes of judgment and decision-making. I graduated with my B.A. from Hawai'i Pacific University and my M.A. from New York University working with Paul Glimcher comparing choice based markers of risk aversion and temporal discounting to psychological questionnaires meant to gauge similar constructs of risk-taking and impulse control.
+I am a scientist interested in the quantitative modeling of the brain and behavior. As a postdoctoral fellow at the University of Pennsylvania I studied MRI oximetry to validate tools for estimating the cerebral metabolic rate of oxygen as applied to sleep apnea and carotid occlusive disease. As a doctoral student, I used fMRI and computational behavioral modeling to study the neurocomputational processes of judgment and decision-making. I graduated with my B.A. from Hawai'i Pacific University and my M.A. from New York University working with Paul Glimcher comparing choice based markers of risk aversion and temporal discounting to psychological questionnaires meant to gauge similar constructs of risk-taking and impulse control.
 
 Research interests
 ======
