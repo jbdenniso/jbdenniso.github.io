@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Philadelphia, PA"
 ---
 
-Course description
+Course Description
 ==========
 Psychology and Neuroscience have opened the understanding of human and animal emotion, cognition, and behavior through the lens of development, genetics, and physiology. This course is intended to be an introduction to the science of Psychology and Neuroscience. Students will explore discoveries in psychology and neuroscience that are providing new insights on human behavior and that are contributing to improving treatments for people experiencing mental health difficulties. This introduction is built to better equip students to decide whether to pursue these topics and to do so successfully.
 
